@@ -1,6 +1,6 @@
 package booking;
 
-public class MovieTicketClient {
+public class MovieTicketClient extends Thread {
 
     private String customerName;
     private int numberOfTickets;
