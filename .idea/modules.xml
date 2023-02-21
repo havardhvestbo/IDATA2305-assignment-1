@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/IDATA2305-assignment-1.iml" filepath="$PROJECT_DIR$/.idea/IDATA2305-assignment-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Opperativsystem-Assignment-1/OpperativSystem-SimpelClientServerProgram.iml" filepath="$PROJECT_DIR$/Opperativsystem-Assignment-1/OpperativSystem-SimpelClientServerProgram.iml" />
+    </modules>
+  </component>
+</project>
