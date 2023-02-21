@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="OpperativSystem-MovieThreadProgram" />
+        <module name="Opperativsystem-Assignment-2" />
       </profile>
     </annotationProcessing>
   </component>
